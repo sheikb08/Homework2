@@ -1,0 +1,28 @@
+.panel-heading {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: gold;
+    color: black;
+    margin: 0px;
+}
+
+
+p, h2, h3 {
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.panel-body {
+    border: 4px solid gold;
+    padding: 4px;
+}
+
+.contactform{
+    border: 4px solid gold;
+    padding: 6px;
+    background-color: gainsboro;
+}
+
+.footer {
+    background-color: gainsboro;
+}
